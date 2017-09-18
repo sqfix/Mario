@@ -1,0 +1,19 @@
+
+textures1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttonOn
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+buttonOff
+  rotate: false
+  xy: 2, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
